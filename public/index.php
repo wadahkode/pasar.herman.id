@@ -1,6 +1,8 @@
 <?php
-include "../setting/sql.php";
-include "../headside.php";
+// Include bootstrap file
+require_once __DIR__."/../settings/bootstrap.php";
+
+return $database;
 ?>
 		<!-- SECTION -->
 		<div class="section">
