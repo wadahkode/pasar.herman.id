@@ -1,8 +1,8 @@
 <?php 
-$koneksi = mysqli_connect("localhost","root","","pasar.herman.id");
+$koneksi = mysqli_connect("localhost","admin","margasari07","pasar_herman");
 
 //sql ambil domain
-$connect_data = mysqli_query($koneksi,"select *from domain ");
+$connect_data = mysqli_query($koneksi,"select * from domain ");
 $show_domain = mysqli_fetch_array($connect_data);
 $domain=$show_domain['nm_domain'];
 $status = $show_domain['status'];
