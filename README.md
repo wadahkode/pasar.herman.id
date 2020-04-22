@@ -22,11 +22,11 @@ Ini adalah project jual beli atau shopping cart yang menyediakan jual beli sayur
     * -> welcome.html or welcome.php
 
 * setting
-    |-> default akses app/Config for Configuration application
+    * -> default akses app/Config for Configuration application
 
 * src
-    |-> scss
-    |-> index.js
+    * -> scss
+    * -> index.js
 
 Keterangan:
 
