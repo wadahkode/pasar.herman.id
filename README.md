@@ -75,6 +75,7 @@ Direktori public setara dengan public_html yang berada dihosting, ini berfungsi 
 
 # Mulai cepat
     Gunakan perintah ini untuk memulai cepat aplikasi:
-    $ php -S localhost:8080 -t public
+
+        $ php -S localhost:8080 -t public
 
 # Other...
