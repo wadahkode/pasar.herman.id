@@ -4,29 +4,29 @@ Ini adalah project jual beli atau shopping cart yang menyediakan jual beli sayur
 
 # Struktur Project
 * App
- +-> Config
- + -> Controllers
+    * -> Config
+    * -> Controllers
 
 * dist
- +-> css
- +-> js
- +-> img
+    * -> css
+    * -> js
+    * -> img
 
 * public
- +-> index.php
- +-> robot.txt
- +-> .htaccess
+    * -> index.php
+    * -> robot.txt
+    * -> .htaccess
 
 * resources
- +-> views
- +-> welcome.html or welcome.php
+    * -> views
+    * -> welcome.html or welcome.php
 
 * setting
- +-> default akses app/Config for Configuration application
+    |-> default akses app/Config for Configuration application
 
 * src
- +-> scss
- +-> index.js
+    |-> scss
+    |-> index.js
 
 Keterangan:
 
