@@ -3,23 +3,23 @@
 Ini adalah project jual beli atau shopping cart yang menyediakan jual beli sayur-sayuran.
 
 # Struktur Project
-app
+* App
     -> Config
     -> Controllers
-dist
+* dist
     -> css
     -> js
     -> img
-public
+* public
     -> index.php
     -> robot.txt
     -> .htaccess
-resources
+* resources
     -> views
         -> welcome.html or welcome.php
-setting
+* setting
     -> default akses app/Config for Configuration application
-src
+* src
     -> scss
     -> index.js
 
